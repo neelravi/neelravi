@@ -1,3 +1,4 @@
+![Screenshot of Homepage](homepage_screenshot.png)
 ### www.neelravi.com
 
 <!--
