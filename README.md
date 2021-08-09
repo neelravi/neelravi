@@ -1,4 +1,4 @@
-![Screenshot of Homepage](homepage_screenshot.png)
+![Screenshot of Homepage](homepage-github.png)
 ### www.neelravi.com
 
 <!--
