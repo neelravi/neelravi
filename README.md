@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Ravindra's GitHub stats](https://github-readme-stats.vercel.app/api?username=neelravi&count_private=true&show_icons=true&theme=aura)
+
+[![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neelravi&langs_count=10&layout=compact)](https://neelravi.com)
