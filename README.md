@@ -27,3 +27,28 @@ Sharma Yamijala, **Ravindra Shinde**, Kota Hanasaki, Zulfikhar Ali, and Bryan Wo
     
 <hr/>
 
+<img align="left" src="https://neelravi.com/publication/pub15_jpcl_nikhilesh/featured.jpg" width=120 alt=""/>
+<p>
+
+### Anisotropic Interlayer Exciton in GeSe/SnS van der Waals Heterostructure
+    
+Nikhilesh Maity, Pooja Srivastava, Himani Mishra, **Ravindra Shinde**, Abhishek Kumar Singh, *J. Phys. Chem. Lett*, **2021**,  *12*, 1765, DOI: <a href="https://neelravi.com/media/acs.jpclett.0c03469.pdf">10.1021/acs.jpclett.0c03469</a>
+<br/>
+</p>
+    
+<hr/>
+
+
+
+<img align="left" src="https://neelravi.com/publication/pub14_jopcm_ucr/featured.png" width=120 alt=""/>
+<p>
+
+### Improved band gaps and structural properties from Wannier–Fermi–Lowdin self-interaction corrections for periodic systems
+    
+Nikhilesh Maity, Pooja Srivastava, Himani Mishra, **Ravindra Shinde**, Abhishek Kumar Singh, *J. Phys. Chem. Lett*, **2021**,  *12*, 1765, DOI: <a href="https://neelravi.com/media/acs.jpclett.0c03469.pdf">10.1021/acs.jpclett.0c03469</a>
+<br/>
+</p>
+    
+<hr/>
+
+
