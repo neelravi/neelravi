@@ -45,7 +45,7 @@ Nikhilesh Maity, Pooja Srivastava, Himani Mishra, **Ravindra Shinde**, Abhishek 
 
 ### Improved band gaps and structural properties from Wannier–Fermi–Lowdin self-interaction corrections for periodic systems
     
-Nikhilesh Maity, Pooja Srivastava, Himani Mishra, **Ravindra Shinde**, Abhishek Kumar Singh, *J. Phys. Chem. Lett*, **2021**,  *12*, 1765, DOI: <a href="https://neelravi.com/media/acs.jpclett.0c03469.pdf">10.1021/acs.jpclett.0c03469</a>
+**Ravindra Shinde**, Sharma Yamijala, *J. Phys: Cond. Mat.*, **2020**,  *33*, 115501, DOI: <a href="https://neelravi.com/media/periodic_flosic.pdf">10.1088/1361-648x/abc407</a>
 <br/>
 </p>
     
