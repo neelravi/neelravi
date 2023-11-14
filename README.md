@@ -14,7 +14,18 @@
 | :---         |              ---: |
 
     
-## List of Publications
+## Latest list of Publications
+
+
+<img align="left" src="https://github.com/filippi-claudia/champ/raw/main/docs/trexio.png" width=100 alt=""/>
+<p>
+
+### TREXIO: A file format and library for quantum chemistry
+Posenitskiy, Evgeny and Chilkuri, Vijay Gopal and Ammar, Abdallah and Hapka, Michal and Pernal, Katarzyna and **Shinde, Ravindra** and Landinez Borda, Edgar Josue and Filippi, Claudia and Nakano, Kosuke and Kohulak, Otto and Sorella, Sandro and de Oliveira Castro, Pablo and Jalby, William and Rios, Pablo Lopez and Alavi, Ali and Scemama, Anthony  *J. Chem Phys*, **2023**,  *158*, 17, DOI: <a href="https://pubs.aip.org/aip/jcp/article-pdf/doi/10.1063/5.0148161/17355866/174801_1_5.0148161.pdf">10.1063/5.0148161</a>
+<br/>
+</p>
+
+<hr/>
 
 <img align="left" src="https://neelravi.com/publication/pub16_jhm_ucr/featured_hue4f2269ee507b07797b8febf1548b4db_313210_720x0_resize_q75_box.jpg" width=120 alt=""/>
 <p>
