@@ -16,6 +16,16 @@
     
 ## Latest list of Publications
 
+<img align="left" src="https://pubs.acs.org/cms/10.1021/acs.jctc.4c00498/asset/images/medium/ct4c00498_0004.gif" width=100 alt=""/>
+<p>
+
+### Accurate quantum Monte Carlo forces for machine-learned force fields: Ethanol as a benchmark 
+Emiel Slootman, Igor Poltavsky, Ravindra Shinde, Jacopo Cocomello, Saverio Moroni, Alexandre Tkatchenko, Claudia Filippi *J. Chem. Theory Comput.*, *20*, 14, 6020. DOI: <a href="https://pubs.acs.org/doi/pdf/10.1021/acs.jctc.4c00498?ref=article_openPDF">10.1021/acs.jctc.4c00498</a>
+<br/>
+</p>
+
+<hr/>
+
 
 <img align="left" src="https://github.com/filippi-claudia/champ/raw/main/docs/trexio.png" width=100 alt=""/>
 <p>
